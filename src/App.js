@@ -12,9 +12,6 @@ class App extends Component {
           <h2>React Form Validation Demo</h2>
         </div>
         <Form />
-        <h4>
-          From <a style={{textDecoration: 'underline'}} href="https://learnetto.com/users/hrishio/courses/the-complete-react-on-rails-5-course">The Complete React on Rails Course</a>
-        </h4>
       </div>
     );
   }

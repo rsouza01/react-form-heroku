@@ -1,9 +1,11 @@
-# React Form Validation Demo
+# Small react application running on Heroku [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is a simple demo app for showing how to do basic form validation in React.
 
-[See the app running on Heroku](https://reactform.herokuapp.com).
+Small react application, it includes a sign up form with email and password input fields and a sign up button.
 
-It includes a sign up form with email and password input fields and a sign up button.
 
-For more on how to generalise the validations, have a look at [The Complete React on Rails Course](learnetto.com/users/hrishio/courses/the-complete-react-on-rails-5-course).
+[See the app running on Heroku](https://react-form-heroku.herokuapp.com/).
+
+## References
+
+https://medium.com/quick-code/deploying-production-build-of-react-app-to-heroku-2548d8bf6936
