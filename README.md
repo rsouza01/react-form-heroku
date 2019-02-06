@@ -9,3 +9,5 @@ Small react application, it includes a sign up form with email and password inpu
 ## References
 
 https://medium.com/quick-code/deploying-production-build-of-react-app-to-heroku-2548d8bf6936
+
+https://material-ui.com/getting-started/installation/
